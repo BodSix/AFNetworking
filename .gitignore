@@ -6,6 +6,8 @@ build/*
 *.perspectivev3
 *.xcodeproj/xcuserdata
 *.xcodeproj/project.xcworkspace
+**/*.xcodeproj/xcuserdata
+**/*.xcodeproj/project.xcworkspace
 
 .idea
 
